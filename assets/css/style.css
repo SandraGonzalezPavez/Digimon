@@ -1,3 +1,10 @@
-body {
-    background-image: url("digimon.webp");
+.body {
+    background: url('../img/Digimon.webp');
+    height: 300px;
        }
+
+       #card {
+        width: 20%;
+        float: left;
+        text-align: center;
+    } 
